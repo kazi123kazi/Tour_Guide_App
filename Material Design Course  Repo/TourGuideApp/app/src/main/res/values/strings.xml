@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+  
+
+    <string name="arunachal">arunachal</string>
+    <string name="manipur">manipur</string>
+    <string name="nainital">nainital</string>
+    <string name="gallery">Gallery</string>
+
+
+
+    // For Arunachal 
+    <string name="arunachal_site1_locationSite">Location: Arunachal</string>
+    <string name="arunachal_site1_deluxrRestaurent">Delux Restaurent:Trinomoy  </string>
+    <string name="arunachal_site1_budgetRestaurent">Budget Restaurent: 125 $</string>
+    <string name="arunachal_site1_reachByLand">Train Station: Arunachal</string>
+    <string name="arunachal_site1_reachByAir">Flights: Air India </string>
+    <string name="arunachal_site1_historicalPlace">Historical Place to Visit: Arunachal</string>
+    <string name="arunachal_site1_mustVisitSite">Popular Site: Arunachal</string>
+
+    <string name="arunachal_site2_locationSite">Location: Arunachal</string>
+    <string name="arunachal_site2_deluxrRestaurent">Delux Restaurent: Mrinmoy  </string>
+    <string name="arunachal_site2_budgetRestaurent">Budget Restaurent: 45 $ </string>
+    <string name="arunachal_site2_reachByLand">Train Station: budginton </string>
+    <string name="arunachal_site2_reachByAir">Flights: sitaram </string>
+    <string name="arunachal_site2_historicalPlace">Historical Place to Visit: Arunachal </string>
+    <string name="arunachal_site2_mustVisitSite">Popular Site: Arunachal</string>
+
+    <string name="arunachal_site3_locationSite">Location: Kaziranga</string>
+    <string name="arunachal_site3_deluxrRestaurent">Delux Restaurent: Place to be filled </string>
+    <string name="arunachal_site3_budgetRestaurent">Budget Restaurent: Place to be filled </string>
+    <string name="arunachal_site3_reachByLand">Train Station: Place to be filled </string>
+    <string name="arunachal_site3_reachByAir">Air Port: Place to be filled </string>
+    <string name="arunachal_site3_historicalPlace">Historical Place to Visit: Place to be filled </string>
+    <string name="arunachal_site3_mustVisitSite">Popular Site: Place to be filled </string>
+
+
+
+    // For Manipur
+    <string name="manipur_site1_locationSite">Location: Shillong</string>
+    <string name="manipur_site1_deluxrRestaurent">Delux Restaurent:Place to be filled  </string>
+    <string name="manipur_site1_budgetRestaurent">Budget Restaurent:Place to be filled  </string>
+    <string name="manipur_site1_reachByLand">Train Station: Place to be filled </string>
+    <string name="manipur_site1_reachByAir">Flights: Place to be filled </string>
+    <string name="manipur_site1_historicalPlace">Historical Place to Visit: Place to be filled </string>
+    <string name="manipur_site1_mustVisitSite">Popular Site: Place to be filled </string>
+
+    <string name="manipur_site2_locationSite">Location: Cherrapunji</string>
+    <string name="manipur_site2_deluxrRestaurent">Delux Restaurent: Place to be filled </string>
+    <string name="manipur_site2_budgetRestaurent">Budget Restaurent: Place to be filled </string>
+    <string name="manipur_site2_reachByLand">Train Station: Place to be filled </string>
+    <string name="manipur_site2_reachByAir">Flights: Place to be filled </string>
+    <string name="manipur_site2_historicalPlace">Historical Place to Visit: </string>
+    <string name="manipur_site2_mustVisitSite">Popular Site: Place to be filled </string>
+
+    <string name="manipur_site3_locationSite">Location: Dawki</string>
+    <string name="manipur_site3_deluxrRestaurent">Delux Restaurent: Place to be filled </string>
+    <string name="manipur_site3_budgetRestaurent">Budget Restaurent: Place to be filled </string>
+    <string name="manipur_site3_reachByLand">Train Station:Place to be filled  </string>
+    <string name="manipur_site3_reachByAir">Flights: Place to be filled </string>
+    <string name="manipur_site3_historicalPlace">Historical Place to Visit: Place to be filled  </string>
+    <string name="manipur_site3_mustVisitSite">Popular Site: Place to be filled </string>
+
+
+
+    // For Nainital
+    <string name="nainital_site1_locationSite">Location: Kohima</string>
+    <string name="nainital_site1_deluxrRestaurent">Delux Restaurent:Place to be filled  </string>
+    <string name="nainital_site1_budgetRestaurent">Budget Restaurent: Place to be filled </string>
+    <string name="nainital_site1_reachByLand">Train Station:Place to be filled </string>
+    <string name="nainital_site1_reachByAir">Flights: </string>
+    <string name="nainital_site1_historicalPlace">Historical Place to Visit: Place to be filled </string>
+    <string name="nainital_site1_mustVisitSite">Popular Site: Place to be filled </string>
+
+    <string name="nainital_site2_locationSite">Location: Dimapur</string>
+    <string name="nainital_site2_deluxrRestaurent">Delux Restaurent: Place to be filled </string>
+    <string name="nainital_site2_budgetRestaurent">Budget Restaurent: Place to be filled </string>
+    <string name="nainital_site2_reachByLand">Train Station: Place to be filled </string>
+    <string name="nainital_site2_reachByAir">Flights: Place to be filled </string>
+    <string name="nainital_site2_historicalPlace">Historical Place to Visit: Place to be filled </string>
+    <string name="nainital_site2_mustVisitSite">Popular Site:Place to be filled  </string>
+
+    <string name="nainital_site3_locationSite">Location: Mokokchang</string>
+    <string name="nainital_site3_deluxrRestaurent">Delux Restaurent: Place to be filled </string>
+    <string name="nainital_site3_budgetRestaurent">Budget Restaurent: Place to be filled </string>
+    <string name="nainital_site3_reachByLand">Train Station: Place to be filled </string>
+    <string name="nainital_site3_reachByAir">Flights: Place to be filled  </string>
+    <string name="nainital_site3_historicalPlace">Historical Place to Visit: Place to be filled </string>
+    <string name="nainital_site3_mustVisitSite">Popular Site: Place to be filled </string>
+
+
+</resources>
